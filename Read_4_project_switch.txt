@@ -1,0 +1,2 @@
+Just change the project folder path from the sln file
+chage remaining in the vs studio solution explorer, it modifies the sln file 
